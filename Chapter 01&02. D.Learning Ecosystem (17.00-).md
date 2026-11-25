@@ -1,14 +1,14 @@
 ---
 day: 1
 topic: cuda
-status: in-progress
-video_minutes: 17
+status: done
+video_minutes: 17:00-47:00
 ---
-Chapter 01 notes: [[chapter-01-ecosystem]]
+Chapter 01 notes: [[cuda-course/01_Deep_Learning_Ecosystem/README.md]]
 
 ### Disclaimer not gonna up-to-date 5 years from now (by the time i wrote this the tutorial is already 3 years old lol!)
 
-[README sumarry:](https://github.com/Infatoshi/cuda-course/blob/master/01_Deep_Learning_Ecosystem/README.md)
+[README sumarry:](cuda-course/01_Deep_Learning_Ecosystem/README.md)
 * brief talk about the ecosystem (CUDA/ROcm, pytorch, tensorflow, provider, compiler, etc )
 * already cover in University so can scrim fast through this part
 * Take look in "production" part in the video
